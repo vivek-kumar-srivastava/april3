@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\april3.exe
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\april3.dll
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\april3.deps.json
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\april3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Azure\april3\april3\obj\Release\net8.0\PubTmp\Out\april3.pdb
